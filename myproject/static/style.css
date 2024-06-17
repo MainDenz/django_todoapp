@@ -1,0 +1,24 @@
+header, footer {
+    font-family: Arial, sans-serif;
+    background-color: #1979a9;
+    color: #e07b39;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.container {
+    text-align: center;
+    color: #1979a9;
+    font-size: 42px;
+    
+}
+
+body {
+    background-color: #e07b39;
+    
+}
+
+form{
+    display: inline;
+}
